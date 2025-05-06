@@ -3,6 +3,8 @@
 
 Uh oh! A mishap at the bot factory caused all your health to be at 1! Better hope you don't get hit by anything or anyone...
 
+Press \ (Backslash) to toggle UI. 
+
 Based on inspiration of the One Hit Hero badge from A Hat In Time, this mod makes it so you only have one health and one health only! You cannot heal via the health packs in the shop, or your friends.
 
 This is my first mod using Harmony and BepInEx, so any feedback is appreciated!
